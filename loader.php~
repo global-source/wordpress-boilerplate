@@ -1,0 +1,13 @@
+<?php
+
+if ( !defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
+
+// Importing composer components.
+require_once 'vendor/autoload.php';
+
+// Importing installer.
+require_once 'includes/installer.php';
+
+// Base installer.
+require_once 'includes/base_setup.php';
+

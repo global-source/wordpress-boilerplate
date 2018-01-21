@@ -1,0 +1,2 @@
+<?php
+//TODO: General helpers.
